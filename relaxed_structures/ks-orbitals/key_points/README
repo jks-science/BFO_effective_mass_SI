@@ -1,0 +1,11 @@
+The locations of the CBM are:
+
+Pm-3m: G
+P4mm:  G
+R3c:   R
+R-3c:  R
+Pnma:  R
+
+
+Shortcut to open all the CBM LUMOs:
+open r3c_lumo_R.vasp pnma_lumo_R.vasp pm-3m_lumo_G.vasp r-3c_lumo_R.vasp
