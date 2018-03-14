@@ -1,0 +1,41 @@
+Effective mass calculator 1.50py
+Stencil: 5
+License: MIT
+Developed by: Alexandr Fonari and Chris Sutton
+Started at: 2018-03-14 00:38
+
+Contents of the input_emc file:
+
+0.46375  0.50000  0.46375
+0.005
+377
+V
+     8.0126953125000000    0.0000000000000000    0.0000000000000000
+     0.1145251752000000    8.0118768184999993    0.0000000000000000
+     0.1145251752000000    0.1128998035000000    8.0110813121000000
+
+
+==========
+
+Successfully opened EIGENVAL, preparing to parse it...
+
+-> fd_effmass_st5: Effective mass tensor:
+
+     0.32192408     -0.02711120      0.16442382
+    -0.02711120      0.30269193      0.01281081
+     0.16442382      0.01281081      0.17958170
+
+Principle effective masses and directions:
+
+Effective mass (0):       14.539
+Original eigenvectors: -0.54965 -0.10907 0.82825
+Normal fractional coordinates: -0.67570 -0.14576 1.00000
+
+Effective mass (1):        3.294
+Original eigenvectors: 0.04226 0.98654 0.15795
+Normal fractional coordinates: 0.02634 1.00000 0.16049
+
+Effective mass (2):        2.316
+Original eigenvectors: 0.83433 -0.12182 0.53764
+Normal fractional coordinates: 1.00000 -0.15620 0.64907
+
